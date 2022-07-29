@@ -2,6 +2,10 @@
 
 ##Garis Besar 
 
-✅ Typography
-✅ Images
-✅ Tables 
+✅ Typography <br>
+✅ Images <br>
+✅ Tables <br>
+
+# Typograhy 
+# Image 
+# Table 
