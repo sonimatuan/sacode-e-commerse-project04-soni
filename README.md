@@ -18,6 +18,12 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css
 
 # Typograhy 
 
-# Image 
+Buat File dengan nama ```typography.html```
 
-# Table 
+# Images 
+
+Buat File dengan nama ```images.html```
+
+# Tables
+
+Buat File dengan nama ```tables.html```
